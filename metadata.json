@@ -1,0 +1,34 @@
+{
+  "name": "TIMPAYNE",
+  "symbol": "TIMPAYNE",
+  "description": "TIMPAYNE is a Solana meme token built around the GOAT card identity.",
+  "image": "https://jjcarlucho.github.io/timpayne-site/logo.png",
+  "external_url": "https://jjcarlucho.github.io/timpayne-site/",
+  "network": "solana",
+  "chain": "Solana",
+  "mint": "EzeG6aVi23eSAZRqmxyERbiL2ZSanY7WvYUpUjJdqa72",
+  "contract": "EzeG6aVi23eSAZRqmxyERbiL2ZSanY7WvYUpUjJdqa72",
+  "decimals": 9,
+  "total_supply": "1000000000",
+  "links": {
+    "website": "https://jjcarlucho.github.io/timpayne-site/",
+    "logo": "https://jjcarlucho.github.io/timpayne-site/logo.png",
+    "onchain_metadata": "https://gateway.irys.xyz/F6nqVxGXgqkErfqewbjPAYNFhLy6GM8AHq668aByvmnT",
+    "onchain_logo": "https://gateway.irys.xyz/7324NgSYXLm4NsCUd4tRkBJKcKF9uArMFJnYcxuLXyNR",
+    "phantom": "https://trade.phantom.com/token/EzeG6aVi23eSAZRqmxyERbiL2ZSanY7WvYUpUjJdqa72",
+    "jupiter": "https://jup.ag/swap/SOL-EzeG6aVi23eSAZRqmxyERbiL2ZSanY7WvYUpUjJdqa72",
+    "raydium": "https://raydium.io/swap/?inputMint=sol&outputMint=EzeG6aVi23eSAZRqmxyERbiL2ZSanY7WvYUpUjJdqa72",
+    "dexscreener": "https://dexscreener.com/solana/4eGhJpRnQKZW2tkngoCiyKVhiVyNPtK1aL6sTG1HxdjD",
+    "solscan": "https://solscan.io/token/EzeG6aVi23eSAZRqmxyERbiL2ZSanY7WvYUpUjJdqa72"
+  },
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Meme Token"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    }
+  ]
+}
