@@ -13,8 +13,6 @@
   "links": {
     "website": "https://jjcarlucho.github.io/timpayne-site/",
     "logo": "https://jjcarlucho.github.io/timpayne-site/logo.png",
-    "onchain_metadata": "https://gateway.irys.xyz/F6nqVxGXgqkErfqewbjPAYNFhLy6GM8AHq668aByvmnT",
-    "onchain_logo": "https://gateway.irys.xyz/7324NgSYXLm4NsCUd4tRkBJKcKF9uArMFJnYcxuLXyNR",
     "phantom": "https://trade.phantom.com/token/EzeG6aVi23eSAZRqmxyERbiL2ZSanY7WvYUpUjJdqa72",
     "jupiter": "https://jup.ag/swap/SOL-EzeG6aVi23eSAZRqmxyERbiL2ZSanY7WvYUpUjJdqa72",
     "raydium": "https://raydium.io/swap/?inputMint=sol&outputMint=EzeG6aVi23eSAZRqmxyERbiL2ZSanY7WvYUpUjJdqa72",
